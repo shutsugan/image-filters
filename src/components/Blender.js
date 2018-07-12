@@ -18,6 +18,7 @@ class Blender extends Component {
   }
 
   _setBender(blender) {
+    console.log(blender);
     window.Caman('.Canvas__target', function () {
       this[blender]().render();
     });
