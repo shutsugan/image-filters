@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Image-filters",
+  "name": "Image filters and blenders",
   "icons": [
     {
       "src": "favicon.ico",
