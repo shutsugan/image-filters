@@ -6,7 +6,6 @@
   flex: 2 1 auto;
   width: 65vw;
   height: 100vh;
-  border: dashed 1px #000;
 }
 
 .Canvas__buttons {
@@ -14,4 +13,12 @@
   justify-content: space-evenly;
   align-items: center;
   width: 100%;
+}
+
+@media (max-width: 900px) {
+    .Canvas {
+      margin: 16px 0;
+      width: 100vw;
+      height:auto;
+    }
 }
