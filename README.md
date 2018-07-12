@@ -23,6 +23,10 @@ to build the app for production run:
 
 ![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blender.png)
 
+after applying filter or seting blenders
+
+![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blended.png)
+
 ### Front-end
 
 created using reactjs and ES6

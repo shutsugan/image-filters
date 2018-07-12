@@ -19,6 +19,7 @@ class Range extends Component {
 
   _setFilter(filter, value) {
     window.Caman('.Canvas__target', function () {
+      this.revert();
       this[filter](value);
       this.render();
     });
