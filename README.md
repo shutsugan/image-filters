@@ -23,7 +23,7 @@ to build the app for production run:
 
 ![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blender.png)
 
-after applying filter or seting blenders
+after applying filter or setting blenders
 
 ![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blended.png)
 
