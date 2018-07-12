@@ -67,7 +67,9 @@ class Canvas extends Component {
 	}
 
   _reset() {
-    console.log('reset ...');
+		window.Caman('.Canvas__target', this._image, function() {
+			this.revert();
+		});
 	}
 
   render() {
