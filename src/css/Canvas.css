@@ -4,14 +4,14 @@
   justify-content: center;
   align-items: center;
   flex: 2 1 auto;
-  weight: 65vw;
+  width: 65vw;
   height: 100vh;
   border: dashed 1px #000;
 }
 
 .Canvas__buttons {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   width: 100%;
 }

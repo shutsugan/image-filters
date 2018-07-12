@@ -1,5 +1,24 @@
 .Controllers {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   flex: 1 1 auto;
   height: 100vh;
   border: dashed 1px #000;
+}
+
+.Controllers__filters {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 16px;
+  grid-gap: 16px;
+}
+
+.Controllers__blenders {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(9, 50px);
+  grid-row-gap: 0px;
+  grid-gap: 8px;
 }
