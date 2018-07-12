@@ -21,11 +21,11 @@ to build the app for production run:
 
 ### App screenshot
 
-![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blender.png)
+![image-filters screenshot](https://github.com/shutsugan/image-filters/blob/master/blender.png)
 
 after applying filter or setting blenders
 
-![image-filters screenshot](https://github.com/shutsugan/zimage/blob/master/blended.png)
+![image-filters screenshot](https://github.com/shutsugan/image-filters/blob/master/blended.png)
 
 ### Front-end
 
